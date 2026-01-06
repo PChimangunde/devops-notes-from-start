@@ -113,3 +113,12 @@ The video emphasizes the complexity hidden behind seemingly simple customer requ
 ### Conclusion
 
 This video provides a detailed, role-based understanding of how DevOps engineers fit into the software development process and organizational workflow. It highlights the importance of cross-functional collaboration, structured project management using Jira, and the continuous effort to improve efficiency in delivering software products. Aspiring DevOps professionals gain clarity on where they receive work from, how they contribute beyond infrastructure, and the tools they will use daily.
+
+
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/e2b56f8e-9f40-4222-b182-89ef31c3d4c4" />
+
+<img width="1024" height="621" alt="image" src="https://github.com/user-attachments/assets/c197f2c7-b308-4b20-93e4-0e6e556f6657" />
+
+<img width="1024" height="821" alt="image" src="https://github.com/user-attachments/assets/a68e965a-1915-4abe-a88f-b0602ace7720" />
+
+
